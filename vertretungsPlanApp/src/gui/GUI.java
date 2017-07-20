@@ -28,6 +28,7 @@ public class GUI
     ArrayList<JTextArea> Fach;
     ArrayList<JLabel> Uhrzeit;
     ArrayList<JLabel> Tag;
+    JLabel Woche;
     boolean isEditable;
     static int xSize;
     static int ySize;
@@ -218,6 +219,7 @@ public class GUI
             jl.setBounds( (int) (xScale * (l-1)*66 + 212), 75, (int) (50*xScale), (int) (10*yScale));
             Tag.add(jl);
         }
+        Woche = new JLabel();
         TextFuerMainPanel();    
         
         f.add(mainPanel);
@@ -270,7 +272,7 @@ public class GUI
         BR.setBounds(690, 200, 100 , 25);
         PR.setBounds(690, 250, 100 , 25);
         
-        AGBChecker = new JCheckBox("Ich habe die Allgemeinen Gesch√§ftsbedingungen gelesen und erkenne sie hiermit an.");
+        AGBChecker = new JCheckBox("Ich habe die Allgemeinen Gesch‰ftsbedingungen gelesen und erkenne sie hiermit an.");
         login.add(AGBChecker);
         AGBChecker.setBounds(640, 300, 200, 25);
         
