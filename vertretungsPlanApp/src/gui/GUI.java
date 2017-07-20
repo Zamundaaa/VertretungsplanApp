@@ -7,11 +7,20 @@ import java.awt.event.ActionListener;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 
-import javax.swing.*;
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JCheckBox;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JTextArea;
 
-import core.*;
+import core.PLAN;
+import core.STUNDE;
+import core.Tools;
 
 public class GUI
 {
@@ -94,10 +103,10 @@ public class GUI
         }
         catch(Exception e){}
         
-        //Panel fÃ¼r die normale Benutzung:
+        //Panel für die normale Benutzung:
         //AnzeigeVertretungsplan();
         
-        //Panel fÃ¼r login-registration:
+        //Panel für login-registration:
         AnzeigeLoginScreen();
     }
     
@@ -220,6 +229,9 @@ public class GUI
             Tag.add(jl);
         }
         Woche = new JLabel();
+        Woche.setBounds(55, 35, xSize-247, 15);
+//        Woche.setVerticalTextPosition(JLabel.CENTER);
+        mainPanel.add(Woche);
         TextFuerMainPanel();    
         
         f.add(mainPanel);
@@ -321,6 +333,9 @@ public class GUI
         Tag.get(2).setText("Mittwoch");
         Tag.get(3).setText("Donnerstag");
         Tag.get(4).setText("Freitag");
+        
+        String week = getWeekAsString();
+        Woche.setText(week);
         
     }
     
@@ -473,6 +488,22 @@ public class GUI
     public String getDateAsString() {
        DateFormat formatter = new SimpleDateFormat("dd.MM.yyyy");
        return formatter.format(new Date());
+    }
+    public String getWeekAsString(){
+    	Calendar calendar = Calendar.getInstance();
+    	
+    	//Start of Week:
+    	calendar.set( Calendar.DAY_OF_WEEK, calendar.getFirstDayOfWeek() );
+    	String begin = "" + calendar.getTime();
+    	
+    	
+    	//End of Week:
+    	calendar.add( Calendar.WEEK_OF_YEAR, 1 );
+    	calendar.set( Calendar.DAY_OF_WEEK, calendar.getFirstDayOfWeek());
+    	calendar.add( Calendar.MILLISECOND, -1 );
+    	String end = "" + calendar.getTime();
+    	
+    	return begin + " - " + end;
     }
     
     public class JP extends JPanel
