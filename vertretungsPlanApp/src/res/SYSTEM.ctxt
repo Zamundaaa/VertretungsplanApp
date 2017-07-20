@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SYSTEM()
+comment1.params=neuerNutzername
+comment1.target=void\ Nutzername\u00C4ndern(java.lang.String)
+comment10.params=
+comment10.target=void\ PlanErstellt()
+comment11.params=
+comment11.target=void\ ProgrammBeenden()
+comment2.params=neuerPlan
+comment2.target=void\ Plan\u00C4ndern(PLAN)
+comment3.params=neuesPasswort
+comment3.target=void\ Passwort\u00C4ndern(java.lang.String)
+comment4.params=eingegebenerNutzername\ eingegebenesPasswort
+comment4.target=boolean\ Anmeldung(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=PLAN\ PlanGeben()
+comment6.params=
+comment6.target=void\ aktualisieren()
+comment7.params=neuerBenutzername\ neuesPasswort
+comment7.target=void\ neuenBenutzerAnlegen(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ BenutzerLoeschen()
+comment9.params=neuerPlan
+comment9.target=void\ PlanEinfuegen(PLAN)
+numComments=12

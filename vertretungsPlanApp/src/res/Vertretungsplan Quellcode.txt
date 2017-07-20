@@ -1,0 +1,2459 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de">
+
+<head>
+    <script type="text/javascript">
+var siteurl='/';
+var tmplurl='/templates/ja_purity_ii/';
+var isRTL = false;
+</script>
+
+  <base href="http://descartes-gym.de/index.php/schueler/vertretungen" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Descartes, Gymnasium, Neuburg" />
+  <meta name="author" content="Hirschmann Thorsten" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="description" content="Website des Descartes-Gymnasiums in Neuburg an der Donau" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Vertretungsplan</title>
+  <link href="http://descartes-gym.de/index.php/component/search/?Itemid=224&amp;format=opensearch" rel="search" title="Suchen Descartes-Gymnasium Neuburg / Donau" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_c17ed.css" type="text/css" />
+  <link rel="stylesheet" href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_182cc.css" type="text/css" />
+  <script src="/index.php?jat3action=gzip&amp;jat3type=js&amp;jat3file=t3-assets%2Fjs_3f830.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/ja_purity_ii/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+
+
+
+
+<link href="/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+<!--[if IE 7.0]>
+<style>
+.clearfix { display: inline-block; } /* IE7xhtml*/
+</style>
+<![endif]-->
+
+<script language="javascript" type="text/javascript">
+var rightCollapseDefault='show';
+var excludeModules='38';
+</script>
+<script language="javascript" type="text/javascript" src="/templates/ja_purity_ii/js/ja.rightcol.js"></script>
+
+<style type="text/css">
+#ja-header .main {
+	background-image: url(/templates/ja_purity_ii//images/header/header2.jpg);
+}
+</style>
+    
+    <style type="text/css">
+/*dynamic css*/
+
+    body.bd .main {width: 95%;}
+    body.bd #ja-wrapper {min-width: 95%;}
+</style></head>
+
+<body id="bd" class="bd fs4 com_content">
+<a name="Top" id="Top"></a>
+<div id="ja-wrapper">
+
+
+                <div id="ja-header"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <h1 class="logo">
+    <a href="/" title="Descartes-Gymnasium Neuburg / Donau"><span>Descartes-Gymnasium Neuburg / Donau</span></a>
+</h1>
+
+<div id="ja-search">
+    <form action="/index.php/schueler/vertretungen" method="post" class="search">
+		<br /><label for="mod-search-searchword">Suchen...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Suchen..."  onblur="if (this.value=='') this.value='Suchen...';" onfocus="if (this.value=='Suchen...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="224" />
+</form>
+
+</div>                </div>
+                            </div>
+                        </div>
+            <div id="ja-mainnav"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                	<div class="ja-megamenu clearfix" id="ja-megamenu">
+<ul class="megamenu level0"><li  class="mega first"><a href="http://descartes-gym.de/"  class="mega first" id="menu136" title="Startseite"><span class="menu-title">Startseite</span></a></li><li  class="mega haschild"><a href="/index.php/unsere-schule"  class="mega haschild" id="menu3" title="Unsere Schule"><span class="menu-title">Unsere Schule</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/index.php/unsere-schule/ausbildungsrichtungen"  class="mega first" id="menu7" title="Ausbildungsrichtungen"><span class="menu-title">Ausbildungsrichtungen</span></a></li><li  class="mega haschild"><a href="/index.php/unsere-schule/beratung"  class="mega haschild" id="menu231" title="Beratung"><span class="menu-title">Beratung</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/unsere-schule/beratung/schulberatung"  class="mega first" id="menu9" title="Schulberatung"><span class="menu-title">Schulberatung</span></a></li><li  class="mega last"><a href="/index.php/unsere-schule/beratung/schulpsychologie"  class="mega last" id="menu70" title="Schulpsychologie"><span class="menu-title">Schulpsychologie</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/index.php/unsere-schule/bibliotheken"  class="mega" id="menu10" title="Bibliotheken"><span class="menu-title">Bibliotheken</span></a></li><li  class="mega"><a href="/index.php/unsere-schule/kooperationen"  class="mega" id="menu8" title="Kooperationen"><span class="menu-title">Kooperationen</span></a></li><li  class="mega"><a href="/index.php/unsere-schule/leitbild"  class="mega" id="menu265" title="Leitbild"><span class="menu-title">Leitbild</span></a></li><li  class="mega"><a href="/index.php/unsere-schule/oberstufenkoordination"  class="mega" id="menu127" title="Oberstufenkoordination"><span class="menu-title">Oberstufenkoordination</span></a></li><li  class="mega"><a href="/index.php/unsere-schule/schulgremien"  class="mega" id="menu13" title="Schulgremien"><span class="menu-title">Schulgremien</span></a></li><li  class="mega last"><a href="/index.php/unsere-schule/schulpersonal"  class="mega last" id="menu15" title="Schulpersonal"><span class="menu-title">Schulpersonal</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/eltern"  class="mega haschild" id="menu4" title="Eltern"><span class="menu-title">Eltern</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/index.php/eltern/beurlaubungbefreiung"  class="mega first" id="menu66" title="Beurlaubung/Befreiung"><span class="menu-title">Beurlaubung/Befreiung</span></a></li><li  class="mega"><a href="/index.php/eltern/elternbeirat"  class="mega" id="menu17" title="Elternbeirat"><span class="menu-title">Elternbeirat</span></a></li><li  class="mega"><a href="/index.php/eltern/elternbriefe"  class="mega" id="menu18" title="Elternbriefe"><span class="menu-title">Elternbriefe</span></a></li><li  class="mega"><a href="/index.php/eltern/esis-menue"  class="mega" id="menu134" title="ESIS"><span class="menu-title">ESIS</span></a></li><li  class="mega"><a href="/index.php/eltern/ferientermine"  class="mega" id="menu117" title="Ferientermine"><span class="menu-title">Ferientermine</span></a></li><li  class="mega"><a href="/index.php/eltern/krankmeldung"  class="mega" id="menu19" title="Krankmeldung"><span class="menu-title">Krankmeldung</span></a></li><li  class="mega"><a href="/index.php/eltern/lehrersprechzeiten"  class="mega" id="menu20" title="Lehrersprechzeiten"><span class="menu-title">Lehrersprechzeiten</span></a></li><li  class="mega"><a href="/index.php/eltern/schliessfaecher"  class="mega" id="menu275" title="Schließfächer"><span class="menu-title">Schließfächer</span></a></li><li  class="mega"><a href="/index.php/eltern/schulunfall"  class="mega" id="menu72" title="Schulunfall"><span class="menu-title">Schulunfall</span></a></li><li  class="mega"><a href="/index.php/eltern/termine"  class="mega" id="menu21" title="Termine"><span class="menu-title">Termine</span></a></li><li  class="mega last haschild"><a href="/index.php/eltern/uebertritt"  class="mega last haschild" id="menu22" title="Übertritt"><span class="menu-title">Übertritt</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/eltern/uebertritt/in-die-5-jahrgangsstufe"  class="mega first" id="menu210" title="in die 5. Jahrgangsstufe"><span class="menu-title">in die 5. Jahrgangsstufe</span></a></li><li  class="mega"><a href="/index.php/eltern/uebertritt/in-eine-hoehere-jahrgangstufe"  class="mega" id="menu211" title="in eine höhere Jahrgangstufe"><span class="menu-title">in eine höhere Jahrgangstufe</span></a></li><li  class="mega last"><a href="/index.php/eltern/uebertritt/einfuehrungsklasse"  class="mega last" id="menu212" title="Einführungsklasse"><span class="menu-title">Einführungsklasse</span></a></li></ul></div></div>
+</div></div></li></ul></div></div>
+</div></div></li><li  class="mega haschild active"><a href="/index.php/schueler"  class="mega haschild active" id="menu5" title="Schüler"><span class="menu-title">Schüler</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first active"><a href="/index.php/schueler/vertretungen"  class="mega first active" id="menu224" title="Vertretungsplan"><span class="menu-title">Vertretungsplan</span></a></li><li  class="mega haschild"><a href="/index.php/schueler/auslandsaufenthalt-nach-dem-abi"  class="mega haschild" id="menu112" title="Auslandsaufenthalt nach dem Abi"><span class="menu-title">Auslandsaufenthalt nach dem Abi</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/schueler/auslandsaufenthalt-nach-dem-abi/au-pair"  class="mega first" id="menu120" title="Au pair"><span class="menu-title">Au pair</span></a></li><li  class="mega"><a href="/index.php/schueler/auslandsaufenthalt-nach-dem-abi/auslandstudium"  class="mega" id="menu121" title="Auslandstudium"><span class="menu-title">Auslandstudium</span></a></li><li  class="mega"><a href="/index.php/schueler/auslandsaufenthalt-nach-dem-abi/freiwilligendienste"  class="mega" id="menu122" title="Freiwilligendienste"><span class="menu-title">Freiwilligendienste</span></a></li><li  class="mega"><a href="/index.php/schueler/auslandsaufenthalt-nach-dem-abi/work-a-travel"  class="mega" id="menu123" title="Work &amp; Travel"><span class="menu-title">Work &amp; Travel</span></a></li><li  class="mega last"><a href="/index.php/schueler/auslandsaufenthalt-nach-dem-abi/ziellaender"  class="mega last" id="menu128" title="Zielländer"><span class="menu-title">Zielländer</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/index.php/schueler/begabtenfoerderung"  class="mega" id="menu254" title="Begabtenförderung"><span class="menu-title">Begabtenförderung</span></a></li><li  class="mega"><a href="/index.php/schueler/essen"  class="mega" id="menu73" title="Essen"><span class="menu-title">Essen</span></a></li><li  class="mega"><a href="/index.php/schueler/kollegstufequalifikationsphase"  class="mega" id="menu32" title="Qualifikationsphase"><span class="menu-title">Qualifikationsphase</span></a></li><li  class="mega"><a href="/index.php/schueler/schuelerbefoerderung"  class="mega" id="menu75" title="Schülerbeförderung"><span class="menu-title">Schülerbeförderung</span></a></li><li  class="mega"><a href="/index.php/schueler/schuelerzeitung"  class="mega" id="menu34" title="Schülerzeitung"><span class="menu-title">Schülerzeitung</span></a></li><li  class="mega"><a href="/index.php/schueler/schulaufgabenplan"  class="mega" id="menu263" title="Schulaufgabenplan"><span class="menu-title">Schulaufgabenplan</span></a></li><li  class="mega"><a href="/index.php/schueler/smv"  class="mega" id="menu35" title="SMV"><span class="menu-title">SMV</span></a></li><li  class="mega last"><a href="/index.php/schueler/vertrauenspersonen"  class="mega last" id="menu74" title="Vertrauenspersonen"><span class="menu-title">Vertrauenspersonen</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/aktivitaeten"  class="mega haschild" id="menu6" title="Aktivitäten"><span class="menu-title">Aktivitäten</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first haschild"><a href="/index.php/aktivitaeten/fahrten"  class="mega first haschild" id="menu24" title="Fahrten"><span class="menu-title">Fahrten</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/aktivitaeten/fahrten/wandertag-exkursion"  class="mega first" id="menu228" title="Exkursion/Wandertag"><span class="menu-title">Exkursion/Wandertag</span></a></li><li  class="mega"><a href="/index.php/aktivitaeten/fahrten/schueleraustausch"  class="mega" id="menu92" title="Schüleraustausch"><span class="menu-title">Schüleraustausch</span></a></li><li  class="mega"><a href="/index.php/aktivitaeten/fahrten/schullandheim"  class="mega" id="menu93" title="Schullandheim"><span class="menu-title">Schullandheim</span></a></li><li  class="mega last"><a href="/index.php/aktivitaeten/fahrten/studienfahrt"  class="mega last" id="menu95" title="Studienfahrt"><span class="menu-title">Studienfahrt</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/aktivitaeten/projekte"  class="mega haschild" id="menu27" title="Projekte"><span class="menu-title">Projekte</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/aktivitaeten/projekte/audioguide-neuburg"  class="mega first" id="menu89" title="Audioguide Neuburg"><span class="menu-title">Audioguide Neuburg</span></a></li><li  class="mega"><a href="/index.php/aktivitaeten/projekte/hortus-cartesianus"  class="mega" id="menu250" title="Hortus Cartesianus"><span class="menu-title">Hortus Cartesianus</span></a></li><li  class="mega"><a href="/index.php/aktivitaeten/projekte/kieselerdepfad"  class="mega" id="menu249" title="Kieselerdeerlebnispfad"><span class="menu-title">Kieselerdeerlebnispfad</span></a></li><li  class="mega last"><a href="/index.php/aktivitaeten/projekte/mathematische-stadtrallye"  class="mega last" id="menu251" title="Mathematische Stadtrallye"><span class="menu-title">Mathematische Stadtrallye</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/index.php/aktivitaeten/veranstaltungen"  class="mega" id="menu267" title="Veranstaltungen"><span class="menu-title">Veranstaltungen</span></a></li><li  class="mega last"><a href="/index.php/aktivitaeten/wettbewerbe"  class="mega last" id="menu31" title="Wettbewerbe"><span class="menu-title">Wettbewerbe</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher"  class="mega haschild" id="menu38" title="Fächer"><span class="menu-title">Fächer</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first haschild"><a href="/index.php/faecher/biologie"  class="mega first haschild" id="menu41" title="Biologie"><span class="menu-title">Biologie</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/biologie/fachprofil"  class="mega first" id="menu108" title="Fachprofil"><span class="menu-title">Fachprofil</span></a></li><li  class="mega last"><a href="/index.php/faecher/biologie/projekte"  class="mega last" id="menu133" title="Projekte"><span class="menu-title">Projekte</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/chemie"  class="mega haschild" id="menu42" title="Chemie"><span class="menu-title">Chemie</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/chemie/fachprofil"  class="mega first" id="menu109" title="Fachprofil"><span class="menu-title">Fachprofil</span></a></li><li  class="mega last"><a href="/index.php/faecher/chemie/projekte"  class="mega last" id="menu113" title="Projekte"><span class="menu-title">Projekte</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/deutsch"  class="mega haschild" id="menu39" title="Deutsch"><span class="menu-title">Deutsch</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/deutsch/leistungserhebungen2"  class="mega first" id="menu264" title="Leistungserhebungen"><span class="menu-title">Leistungserhebungen</span></a></li><li  class="mega haschild"><a href="/index.php/faecher/deutsch/aktivitaeten"  class="mega haschild" id="menu107" title="Aktivitäten"><span class="menu-title">Aktivitäten</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level3"><li  class="mega first"><a href="/index.php/faecher/deutsch/aktivitaeten/journalismusprojekt"  class="mega first" id="menu270" title="Journalismusprojekt"><span class="menu-title">Journalismusprojekt</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/index.php/faecher/deutsch/deutschlehrerinnen"  class="mega" id="menu103" title="DeutschlehrerInnen"><span class="menu-title">DeutschlehrerInnen</span></a></li><li  class="mega"><a href="/index.php/faecher/deutsch/fachprofil"  class="mega" id="menu100" title="Fachprofil"><span class="menu-title">Fachprofil</span></a></li><li  class="mega"><a href="/index.php/faecher/deutsch/lehrplan"  class="mega" id="menu101" title="Lehrplan"><span class="menu-title">Lehrplan</span></a></li><li  class="mega last"><a href="/index.php/faecher/deutsch/lesefoerderung"  class="mega last" id="menu111" title="Leseförderung"><span class="menu-title">Leseförderung</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/englisch"  class="mega haschild" id="menu51" title="Englisch"><span class="menu-title">Englisch</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/englisch/aktivitaeten"  class="mega first" id="menu90" title="Aktivitäten"><span class="menu-title">Aktivitäten</span></a></li><li  class="mega last"><a href="/index.php/faecher/englisch/grammatik"  class="mega last" id="menu91" title="Grammatik"><span class="menu-title">Grammatik</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/index.php/faecher/ev-religionslehre"  class="mega" id="menu53" title="Ev. Religionslehre"><span class="menu-title">Ev. Religionslehre</span></a></li><li  class="mega haschild"><a href="/index.php/faecher/franzoesisch"  class="mega haschild" id="menu50" title="Französisch"><span class="menu-title">Französisch</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/franzoesisch/berichte-aus-den-seminaren"  class="mega first" id="menu233" title="Berichte aus den Seminaren"><span class="menu-title">Berichte aus den Seminaren</span></a></li><li  class="mega"><a href="/index.php/faecher/franzoesisch/module"  class="mega" id="menu229" title="Module"><span class="menu-title">Module</span></a></li><li  class="mega"><a href="/index.php/faecher/franzoesisch/aktivitaeten"  class="mega" id="menu96" title="Aktivitäten"><span class="menu-title">Aktivitäten</span></a></li><li  class="mega"><a href="/index.php/faecher/franzoesisch/deutsch-franzoesischer-tag"  class="mega" id="menu97" title="Deutsch-französischer Tag"><span class="menu-title">Deutsch-französischer Tag</span></a></li><li  class="mega"><a href="/index.php/faecher/franzoesisch/fanzoesischlehrerinnen"  class="mega" id="menu99" title="FanzösischlehrerInnen"><span class="menu-title">FanzösischlehrerInnen</span></a></li><li  class="mega last"><a href="/index.php/faecher/franzoesisch/schueleraustausch"  class="mega last" id="menu98" title="Schüleraustausch"><span class="menu-title">Schüleraustausch</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/geografie"  class="mega haschild" id="menu55" title="Geografie"><span class="menu-title">Geografie</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/geografie/aktivitaeten"  class="mega first" id="menu225" title="Aktivitäten"><span class="menu-title">Aktivitäten</span></a></li><li  class="mega"><a href="/index.php/faecher/geografie/fachprofil"  class="mega" id="menu232" title="Fachprofil"><span class="menu-title">Fachprofil</span></a></li><li  class="mega"><a href="/index.php/faecher/geografie/geografielehrerinnen"  class="mega" id="menu272" title="GeografielehrerInnen"><span class="menu-title">GeografielehrerInnen</span></a></li><li  class="mega last"><a href="/index.php/faecher/geografie/projekte"  class="mega last" id="menu230" title="Projekte"><span class="menu-title">Projekte</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/geschichte"  class="mega haschild" id="menu54" title="Geschichte"><span class="menu-title">Geschichte</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/geschichte/neuburg-frueher-und-heute"  class="mega first" id="menu219" title="Neuburg früher und heute"><span class="menu-title">Neuburg früher und heute</span></a></li><li  class="mega"><a href="/index.php/faecher/geschichte/schulgeschichte"  class="mega" id="menu217" title="Schulgeschichte"><span class="menu-title">Schulgeschichte</span></a></li><li  class="mega"><a href="/index.php/faecher/geschichte/sehenswuerdigkeiten"  class="mega" id="menu218" title="Sehenswürdigkeiten"><span class="menu-title">Sehenswürdigkeiten</span></a></li><li  class="mega"><a href="/index.php/faecher/geschichte/zeitzeugen"  class="mega" id="menu220" title="Zeitzeugen"><span class="menu-title">Zeitzeugen</span></a></li><li  class="mega"><a href="/index.php/faecher/geschichte/aktuelles"  class="mega" id="menu214" title="Aktuelles"><span class="menu-title">Aktuelles</span></a></li><li  class="mega"><a href="/index.php/faecher/geschichte/geschichte-dieses-jahrzehnts"  class="mega" id="menu215" title="Geschichte dieses Jahrzehnts"><span class="menu-title">Geschichte dieses Jahrzehnts</span></a></li><li  class="mega last"><a href="/index.php/faecher/geschichte/grundwissen"  class="mega last" id="menu216" title="Grundwissen"><span class="menu-title">Grundwissen</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/kath-religionslehre"  class="mega haschild" id="menu57" title="Kath. Religionslehre"><span class="menu-title">Kath. Religionslehre</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/kath-religionslehre/meditationsraum"  class="mega first" id="menu252" title="Meditationsraum"><span class="menu-title">Meditationsraum</span></a></li><li  class="mega"><a href="/index.php/faecher/kath-religionslehre/schuelerbuecherei"  class="mega" id="menu253" title="Schülerbücherei"><span class="menu-title">Schülerbücherei</span></a></li><li  class="mega"><a href="/index.php/faecher/kath-religionslehre/religionslehrerinnen"  class="mega" id="menu77" title="ReligionslehrerInnen"><span class="menu-title">ReligionslehrerInnen</span></a></li><li  class="mega last"><a href="/index.php/faecher/kath-religionslehre/termineprojekte"  class="mega last" id="menu78" title="Projekte"><span class="menu-title">Projekte</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/latein"  class="mega haschild" id="menu59" title="Latein"><span class="menu-title">Latein</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/latein/aktivitaeten"  class="mega first" id="menu87" title="Aktivitäten"><span class="menu-title">Aktivitäten</span></a></li><li  class="mega"><a href="/index.php/faecher/latein/grammatik"  class="mega" id="menu83" title="Grammatik"><span class="menu-title">Grammatik</span></a></li><li  class="mega"><a href="/index.php/faecher/latein/grundwissen"  class="mega" id="menu88" title="Grundwissen"><span class="menu-title">Grundwissen</span></a></li><li  class="mega"><a href="/index.php/faecher/latein/latinum"  class="mega" id="menu82" title="Latinum"><span class="menu-title">Latinum</span></a></li><li  class="mega"><a href="/index.php/faecher/latein/lateinlehrerinnen"  class="mega" id="menu80" title="LateinlehrerInnen"><span class="menu-title">LateinlehrerInnen</span></a></li><li  class="mega"><a href="/index.php/faecher/latein/lernmittel"  class="mega" id="menu85" title="Lernmittel"><span class="menu-title">Lernmittel</span></a></li><li  class="mega"><a href="/index.php/faecher/latein/schuelerlesebuecherei"  class="mega" id="menu129" title="Schülerlesebücherei"><span class="menu-title">Schülerlesebücherei</span></a></li><li  class="mega"><a href="/index.php/faecher/latein/schulaufgaben"  class="mega" id="menu81" title="Schulaufgaben"><span class="menu-title">Schulaufgaben</span></a></li><li  class="mega"><a href="/index.php/faecher/latein/sprachenfolge"  class="mega" id="menu119" title="Sprachenfolge"><span class="menu-title">Sprachenfolge</span></a></li><li  class="mega last"><a href="/index.php/faecher/latein/zielsetzung"  class="mega last" id="menu118" title="Zielsetzung"><span class="menu-title">Zielsetzung</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/mathematik"  class="mega haschild" id="menu40" title="Mathematik"><span class="menu-title">Mathematik</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/mathematik/mathegym"  class="mega first" id="menu227" title="Mathegym"><span class="menu-title">Mathegym</span></a></li><li  class="mega"><a href="/index.php/faecher/mathematik/mathematik-wettbewerbe"  class="mega" id="menu76" title="Wettbewerbe"><span class="menu-title">Wettbewerbe</span></a></li><li  class="mega last"><a href="/index.php/faecher/mathematik/mathematik-links"  class="mega last" id="menu79" title="Mathematik-Links"><span class="menu-title">Mathematik-Links</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/musik"  class="mega haschild" id="menu60" title="Musik"><span class="menu-title">Musik</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/musik/blaeserklasse"  class="mega first" id="menu106" title="Bläserklasse"><span class="menu-title">Bläserklasse</span></a></li><li  class="mega"><a href="/index.php/faecher/musik/grundwissen"  class="mega" id="menu125" title="Grundwissen"><span class="menu-title">Grundwissen</span></a></li><li  class="mega last"><a href="/index.php/faecher/musik/musik-als-abiturfach"  class="mega last" id="menu105" title="Musik als Abiturfach"><span class="menu-title">Musik als Abiturfach</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/natur-und-technik"  class="mega haschild" id="menu61" title="Natur und Technik"><span class="menu-title">Natur und Technik</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/natur-und-technik/fachprofil"  class="mega first" id="menu110" title="Fachprofil"><span class="menu-title">Fachprofil</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php/faecher/physik"  class="mega haschild" id="menu62" title="Physik"><span class="menu-title">Physik</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/physik/aktivitaeten"  class="mega first" id="menu273" title="Aktivitäten"><span class="menu-title">Aktivitäten</span></a></li><li  class="mega"><a href="/index.php/faecher/physik/physiklehrerinnen"  class="mega" id="menu274" title="PhysiklehrerInnen"><span class="menu-title">PhysiklehrerInnen</span></a></li><li  class="mega last"><a href="/index.php/faecher/physik/projekte"  class="mega last" id="menu266" title="Projekte"><span class="menu-title">Projekte</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/index.php/faecher/spanisch"  class="mega" id="menu43" title="Spanisch"><span class="menu-title">Spanisch</span></a></li><li  class="mega haschild"><a href="/index.php/faecher/sport"  class="mega haschild" id="menu64" title="Sport"><span class="menu-title">Sport</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/sport/aktuelles"  class="mega first" id="menu234" title="Aktuelles"><span class="menu-title">Aktuelles</span></a></li><li  class="mega"><a href="/index.php/faecher/sport/skikurs"  class="mega" id="menu130" title="Skikurs"><span class="menu-title">Skikurs</span></a></li><li  class="mega last"><a href="/index.php/faecher/sport/sportlehrerinnen"  class="mega last" id="menu126" title="SportlehrerInnen"><span class="menu-title">SportlehrerInnen</span></a></li></ul></div></div>
+</div></div></li><li  class="mega last haschild"><a href="/index.php/faecher/wirtschaft-und-recht"  class="mega last haschild" id="menu65" title="Wirtschaft und Recht"><span class="menu-title">Wirtschaft und Recht</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php/faecher/wirtschaft-und-recht/betriebspraktikum"  class="mega first" id="menu104" title="Betriebspraktikum"><span class="menu-title">Betriebspraktikum</span></a></li><li  class="mega"><a href="/index.php/faecher/wirtschaft-und-recht/lehrerinnen"  class="mega" id="menu226" title="LehrerInnen"><span class="menu-title">LehrerInnen</span></a></li><li  class="mega last"><a href="/index.php/faecher/wirtschaft-und-recht/projekte"  class="mega last" id="menu271" title="Projekte"><span class="menu-title">Projekte</span></a></li></ul></div></div>
+</div></div></li></ul></div></div>
+</div></div></li><li  class="mega last"><a href="/index.php/impressum"  class="mega last" id="menu2" title="Impressum"><span class="menu-title">Impressum</span></a></li></ul>
+</div>            <script type="text/javascript">
+                var megamenu = new jaMegaMenuMoo ('ja-megamenu', {
+                    'bgopacity': 0,
+                    'delayHide': 300,
+                    'slide'    : 0,
+                    'fading'   : 0,
+                    'direction': 'down',
+                    'action'   : 'mouseover',
+                    'tips'     : false,
+                    'duration' : 300,
+                    'hidestyle': 'fastwhenshow'
+                });
+            </script>
+                            </div>
+                            </div>
+                        </div>
+            
+<!-- jdoc:include type="menu" level="0" / -->
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>            <div id="ja-topsl"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-left" style="width: 50%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod102">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<h3>Descartes-Gymnasium<br />Neuburg / Donau</h3></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod103">
+						<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-221"><a href="/index.php/kontakt" >Kontakt</a></li></ul>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-right" style="width: 50%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod99">
+						<h3><span>Info</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<p><a href="/index.php/download/finish/31-aktuelle-informationen/7-speisekarte-mensa/0" target="_blank">Speiseplan Mensa</a><a href="/index.php/download/finish/3-aktuelle-informationen/7-speisekarte-mensa/0" target="_blank"><br /></a><a href="/index.php/download/finish/31-aktuelle-informationen/6-speisekarte-imbiss/0" target="_blank">Speiseplan Imbiss</a><a href="/index.php/download/finish/3-aktuelle-informationen/6-speisekarte-imbiss/0" target="_blank"><br /></a><a href="/index.php/eltern/termine" target="_blank">Termine<br /></a><a href="/index.php/eltern/uebertritt" target="_blank">Übertritt ans Gymnasium</a></p></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-topsl .ja-box') });
+</script>                </div>
+                            </div>
+                        </div>
+            
+    <!-- MAIN CONTAINER -->
+    <div id="ja-container" class="wrap ja-l1">
+               <div class="main clearfix">
+                   <div id="ja-mainbody" style="width:100%">
+            <!-- CONTENT -->
+            <div id="ja-main" style="width:80%">
+            <div class="inner clearfix">
+
+                
+<div id="system-message-container">
+</div>
+                
+                <div id="ja-contentwrap" class="clearfix ">
+                    <div id="ja-content" class="column" style="width:100%">
+                        <div id="ja-current-content" class="column" style="width:100%">
+                            
+                                                        <div id="ja-content-main" class="ja-content-main clearfix">
+                                <div class="item-page clearfix">
+
+	
+<div class="article-tools clearfix">
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/index.php/schueler/vertretungen?tmpl=component&amp;print=1&amp;page=" title="Drucken" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/ja_purity_ii/images/system/printButton.png" alt="Drucken"  /></a>			</li>
+		
+				
+				
+		
+	</ul>
+
+
+
+	<dl class="article-info">
+	<dt class="article-info-term">Details</dt>
+	<dd class="modified">
+	Zuletzt aktualisiert am <span>04. Juni 2013</span>	</dd>
+	
+	</dl>
+</div>
+
+
+	 
+
+ 
+<style> 
+
+ 
+th { color: #eee;  
+     background-color: #666;  
+     height:0px;} 
+ 
+td { color: #000; 
+     background-color:#dde;  
+     } 
+ 
+
+ 
+tr{ 
+
+ 
+  border-style:solid;border-width:2px;border-collapse:collapse; 
+
+ 
+} 
+ 
+
+ 
+ 
+table 
+{ 
+  border-style:solid;border-width:2px;border-collapse:collapse;  
+} 
+ 
+</style> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+<head><link rel="stylesheet" type="text/css" href="/willi.css"></link><script src="/willi.js" type="text/javascript"></script><title>WILLI</title></head>
+<body>
+<a name="oben"/><h1>Vertretungspl&auml;ne f&uuml;r </h1><br />
+<a href="#19.07.2017">19.07.2017</a><br />
+<a href="#20.07.2017">20.07.2017</a><br />
+<a href="#21.07.2017">21.07.2017</a><br />
+<a name="19.07.2017"><hr /></a>
+<p class="seite" style="text-align:left">
+<h2>Vertretungsplan f&uuml;r Mittwoch, 19.7.2017</h2>aktualisiert am: 19.7. 7:21 </p>
+<p class="seite" style="text-align:left">
+<h4>Abwesende Klassen:</h4> <table class="K"><colgroup><col width="200"/><col width="150"/><col width="400"/></colgroup> <tr class="K"><th rowspan="1" class="K">
+Q12</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+10c</th>
+<td>
+6.</td>
+<td>
+Exkursion</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9c</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9b</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9a</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+6e</th>
+<td>
+3.-4. </td>
+<td>
+Unterstufentheater</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+6d</th>
+<td>
+3.-4. </td>
+<td>
+Unterstufentheater</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+6b</th>
+<td>
+3.-4. </td>
+<td>
+Unterstufentheater</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+5e</th>
+<td>
+3.-4. </td>
+<td>
+Unterstufentheater</td>
+</tr>
+</table>
+</p>
+<p class="seite" style="text-align:left">
+<h4>Vertretungen:</h4> <table class="k" border-width="3"><tr><th width="75">
+<h4>Klasse</h4> </th>
+<th width="75">
+<h4>Lkr.</h4></th>
+<th width="60">
+<h4>Std.</h4></th>
+<th width="235">
+<h4>vertreten durch</h4></th>
+<th width="75">
+<h4> Raum</h4></th>
+<th width="375">
+<h4>Bemerkung</h4></th>
+</tr>
+<tr class="k"><th rowspan="5" class="k">
+Q11</th>
+<td>
+&nbsp;Go</td>
+<td>
+3</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+&nbsp;Ld</td>
+<td>
+3</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+&nbsp;Fd</td>
+<td>
+4</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+&nbsp;Lx</td>
+<td>
+8</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+&nbsp;Lx</td>
+<td>
+9</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+10d</th>
+<td>
+&nbsp;Go</td>
+<td>
+5</td>
+<td>
+&nbsp;eigenverantw. Arbeiten</td>
+<td>
+&nbsp;106</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+10c</th>
+<td>
+&nbsp;Go</td>
+<td>
+5</td>
+<td>
+&nbsp;eigenverantw. Arbeiten</td>
+<td>
+&nbsp;106</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Lx</td>
+<td>
+3</td>
+<td>
+&nbsp;Hirschmann T.</td>
+<td>
+&nbsp;157</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+10b</th>
+<td>
+&nbsp;Go</td>
+<td>
+5</td>
+<td>
+&nbsp;eigenverantw. Arbeiten</td>
+<td>
+&nbsp;106</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;El</td>
+<td>
+4</td>
+<td>
+&nbsp;Bauer G.</td>
+<td>
+&nbsp;E80</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="3" class="k">
+10a</th>
+<td>
+&nbsp;Go</td>
+<td>
+5</td>
+<td>
+&nbsp;eigenverantw. Arbeiten</td>
+<td>
+&nbsp;106</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Sn</td>
+<td>
+3</td>
+<td>
+&nbsp;Schneeweiss </td>
+<td>
+&nbsp;106</td>
+<td>
+zusammen mit 10a(D)</td>
+</tr><tr>
+<td>
+&nbsp;Ne</td>
+<td>
+4</td>
+<td>
+&nbsp;Eschner</td>
+<td>
+&nbsp;106</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="3" class="k">
+9e</th>
+<td>
+&nbsp;Lx</td>
+<td>
+6</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+<font color="red"> Bn</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> Benz</font></td>
+<td>
+<font color="red"> 172</font></td>
+<td>
+<font color="red">Exkursion</font></td>
+</tr><tr>
+<td>
+<font color="red"> Ha</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Hammer</font></td>
+<td>
+<font color="red"> E12</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr>
+<tr class="k"><th rowspan="3" class="k">
+9d</th>
+<td>
+&nbsp;Ne</td>
+<td>
+3</td>
+<td>
+&nbsp;Itineantiu</td>
+<td>
+&nbsp;171</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Hk</td>
+<td>
+5</td>
+<td>
+&nbsp;Brucklacher</td>
+<td>
+&nbsp;175</td>
+<td>
+</td>
+</tr><tr>
+<td>
+<font color="red"> Ha</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Hammer</font></td>
+<td>
+<font color="red"> E12</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr>
+<tr class="k"><th rowspan="3" class="k">
+8a</th>
+<td>
+&nbsp;Fd</td>
+<td>
+5</td>
+<td>
+&nbsp;Schmidt</td>
+<td>
+&nbsp;208</td>
+<td>
+statt Do(20.7.) 6.St. </td>
+</tr><tr>
+<td>
+<font color="red"> Ec</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Riesinger</font></td>
+<td>
+<font color="red"> 208</font></td>
+<td>
+<font color="red">statt 4.St.&nbsp; </font></td>
+</tr><tr>
+<td>
+<font color="red"> Ri</font></td>
+<td>
+<font color="red">4</font></td>
+<td>
+<font color="red"> Eckert</font></td>
+<td>
+<font color="red"> E12</font></td>
+<td>
+<font color="red">statt 3.St.&nbsp;&nbsp; (Ri verlegt auf 3.St.)</font></td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+7e</th>
+<td>
+&nbsp;Go</td>
+<td>
+1</td>
+<td>
+&nbsp;Jordan</td>
+<td>
+&nbsp;272</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Mo</td>
+<td>
+4</td>
+<td>
+&nbsp;Ruhmich</td>
+<td>
+&nbsp;352</td>
+<td>
+statt Di(18.7.) 6.St.&nbsp;&nbsp; (Mo verlegt auf Di(18.7.) 6.St.)</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+7d</th>
+<td>
+&nbsp;Go</td>
+<td>
+1</td>
+<td>
+&nbsp;Jordan</td>
+<td>
+&nbsp;272</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+7c</th>
+<td>
+&nbsp;Go</td>
+<td>
+1</td>
+<td>
+&nbsp;Jordan</td>
+<td>
+&nbsp;272</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Sm</td>
+<td>
+3</td>
+<td>
+&nbsp;Schmidt</td>
+<td>
+&nbsp;352</td>
+<td>
+Raum&auml;nderung</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+7b</th>
+<td>
+&nbsp;Go</td>
+<td>
+1</td>
+<td>
+&nbsp;Jordan</td>
+<td>
+&nbsp;272</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+7a</th>
+<td>
+&nbsp;Go</td>
+<td>
+1</td>
+<td>
+&nbsp;Jordan</td>
+<td>
+&nbsp;272</td>
+<td>
+</td>
+</tr><tr>
+<td>
+<font color="red"> Hk</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Edenhofer M.</font></td>
+<td>
+<font color="red"> E06</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr>
+<tr class="k"><th rowspan="5" class="k">
+6e</th>
+<td>
+<font color="red"> Go</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> NN</font></td>
+<td>
+<font color="red"> H102</font></td>
+<td>
+<font color="red">Std. wird von Vikar Proksch gehalten</font></td>
+</tr><tr>
+<td>
+&nbsp;Km</td>
+<td>
+5</td>
+<td>
+&nbsp;Kettner</td>
+<td>
+&nbsp;H103</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Wu</td>
+<td>
+5</td>
+<td>
+&nbsp;W&uuml;rth</td>
+<td>
+&nbsp;---</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;Km</td>
+<td>
+6</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+&nbsp;Wu</td>
+<td>
+6</td>
+<td>
+&nbsp;W&uuml;rth</td>
+<td>
+&nbsp;---</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+6d</th>
+<td>
+<font color="red"> Go</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> NN</font></td>
+<td>
+<font color="red"> H102</font></td>
+<td>
+<font color="red">Std. wird von Vikar Proksch gehalten</font></td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+6c</th>
+<td>
+<font color="red"> Go</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> NN</font></td>
+<td>
+<font color="red"> H102</font></td>
+<td>
+<font color="red">Std. wird von Vikar Proksch gehalten</font></td>
+</tr><tr>
+<td>
+&nbsp;Ld</td>
+<td>
+5</td>
+<td>
+&nbsp;Itineantiu</td>
+<td>
+&nbsp;H101</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+6b</th>
+<td>
+<font color="red"> Go</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> NN</font></td>
+<td>
+<font color="red"> H102</font></td>
+<td>
+<font color="red">Std. wird von Vikar Proksch gehalten</font></td>
+</tr>
+<tr class="k"><th rowspan="5" class="k">
+6a</th>
+<td>
+<font color="red"> Go</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> NN</font></td>
+<td>
+<font color="red"> H102</font></td>
+<td>
+<font color="red">Std. wird von Vikar Proksch gehalten</font></td>
+</tr><tr>
+<td>
+&nbsp;Km</td>
+<td>
+5</td>
+<td>
+&nbsp;Kettner</td>
+<td>
+&nbsp;H103</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Wu</td>
+<td>
+5</td>
+<td>
+&nbsp;W&uuml;rth</td>
+<td>
+&nbsp;---</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;Km</td>
+<td>
+6</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+&nbsp;Wu</td>
+<td>
+6</td>
+<td>
+&nbsp;W&uuml;rth</td>
+<td>
+&nbsp;---</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr>
+<tr class="k"><th rowspan="6" class="k">
+5e</th>
+<td>
+&nbsp;Fl</td>
+<td>
+1</td>
+<td>
+&nbsp;Flei&szlig;ner</td>
+<td>
+&nbsp;-</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;El</td>
+<td>
+1</td>
+<td>
+&nbsp;Elmer</td>
+<td>
+&nbsp;--</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;Fl</td>
+<td>
+2</td>
+<td>
+&nbsp;Flei&szlig;ner</td>
+<td>
+&nbsp;-</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;El</td>
+<td>
+2</td>
+<td>
+&nbsp;Elmer</td>
+<td>
+&nbsp;--</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;Da</td>
+<td>
+5</td>
+<td>
+&nbsp;Staske</td>
+<td>
+&nbsp;111</td>
+<td>
+zusammen mit 5e(MIn1)</td>
+</tr><tr>
+<td>
+&nbsp;Da</td>
+<td>
+6</td>
+<td>
+&nbsp;Staske</td>
+<td>
+&nbsp;111</td>
+<td>
+zusammen mit 5e(MIn2)</td>
+</tr>
+<tr class="k"><th rowspan="8" class="k">
+5d</th>
+<td>
+&nbsp;Fl</td>
+<td>
+1</td>
+<td>
+&nbsp;Flei&szlig;ner</td>
+<td>
+&nbsp;-</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;El</td>
+<td>
+1</td>
+<td>
+&nbsp;Elmer</td>
+<td>
+&nbsp;--</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;Fl</td>
+<td>
+2</td>
+<td>
+&nbsp;Flei&szlig;ner</td>
+<td>
+&nbsp;-</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;El</td>
+<td>
+2</td>
+<td>
+&nbsp;Elmer</td>
+<td>
+&nbsp;--</td>
+<td>
+Raum&auml;nderungSport nach M&ouml;gl. im Freien</td>
+</tr><tr>
+<td>
+&nbsp;Sz</td>
+<td>
+5</td>
+<td>
+&nbsp;Jurgasch</td>
+<td>
+&nbsp;Mu1</td>
+<td>
+statt 6.St. </td>
+</tr><tr>
+<td>
+&nbsp;Ju</td>
+<td>
+6</td>
+<td>
+&nbsp;Kaupp</td>
+<td>
+&nbsp;105</td>
+<td>
+&nbsp;(Ju verlegt auf 5.St.)</td>
+</tr><tr>
+<td>
+<font color="red"> Ri</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Kaupp</font></td>
+<td>
+<font color="red"> 105</font></td>
+<td>
+<font color="red">statt 4.St.&nbsp; </font></td>
+</tr><tr>
+<td>
+<font color="red"> Ka</font></td>
+<td>
+<font color="red">4</font></td>
+<td>
+<font color="red"> Riesinger</font></td>
+<td>
+<font color="red"> 105</font></td>
+<td>
+<font color="red">statt 3.St.&nbsp; (Ka verlegt auf 3.St.)</font></td>
+</tr>
+<tr class="k"><th rowspan="4" class="k">
+5c</th>
+<td>
+&nbsp;Fl</td>
+<td>
+3</td>
+<td>
+&nbsp;Edenhofer A.</td>
+<td>
+&nbsp;104</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Bg</td>
+<td>
+3</td>
+<td>
+&nbsp;Edenhofer A.</td>
+<td>
+&nbsp;104</td>
+<td>
+zusammen mit 5c(Sm)</td>
+</tr><tr>
+<td>
+&nbsp;Bg</td>
+<td>
+4</td>
+<td>
+&nbsp;Drewa </td>
+<td>
+&nbsp;104</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Fl</td>
+<td>
+4</td>
+<td>
+&nbsp;Drewa </td>
+<td>
+&nbsp;-</td>
+<td>
+zusammen mit 5c(Sw)</td>
+</tr>
+<tr class="k"><th rowspan="5" class="k">
+5b</th>
+<td>
+&nbsp;Bn</td>
+<td>
+3</td>
+<td>
+&nbsp;Fiedler J.</td>
+<td>
+&nbsp;Mu1</td>
+<td>
+&nbsp;statt 6.Std.</td>
+</tr><tr>
+<td>
+&nbsp;Da</td>
+<td>
+3</td>
+<td>
+&nbsp;Fiedler J.</td>
+<td>
+&nbsp;Mu1</td>
+<td>
+zusammen mit 5b(Sm)</td>
+</tr><tr>
+<td>
+&nbsp;Bn</td>
+<td>
+4</td>
+<td>
+&nbsp;Edenhofer M.</td>
+<td>
+&nbsp;103</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Da</td>
+<td>
+4</td>
+<td>
+&nbsp;Edenhofer M.</td>
+<td>
+&nbsp;103</td>
+<td>
+zusammen mit 5b(Sm)</td>
+</tr><tr>
+<td>
+&nbsp;Fi</td>
+<td>
+6</td>
+<td>
+&nbsp;Edenhofer M.</td>
+<td>
+&nbsp;103</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="5" class="k">
+5a</th>
+<td>
+&nbsp;Fi</td>
+<td>
+2</td>
+<td>
+&nbsp;Simmet-Merkle</td>
+<td>
+&nbsp;102</td>
+<td>
+&nbsp;statt 3.Std. (s.o.)</td>
+</tr><tr>
+<td>
+&nbsp;Bn</td>
+<td>
+3</td>
+<td>
+&nbsp;Kleint</td>
+<td>
+&nbsp;102</td>
+<td>
+&nbsp;statt 4.Std (s.o.)</td>
+</tr><tr>
+<td>
+&nbsp;Bg</td>
+<td>
+3</td>
+<td>
+&nbsp;Kleint</td>
+<td>
+&nbsp;102</td>
+<td>
+zusammen mit 5a(Sm)</td>
+</tr><tr>
+<td>
+&nbsp;Bg</td>
+<td>
+4</td>
+<td>
+&nbsp;Fiedler J.</td>
+<td>
+&nbsp;Mu1</td>
+<td>
+&nbsp;statt 2.Std.</td>
+</tr><tr>
+<td>
+&nbsp;Bn</td>
+<td>
+4</td>
+<td>
+&nbsp;Fiedler J.</td>
+<td>
+&nbsp;Mu1</td>
+<td>
+zusammen mit 5a(Sw)</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+IF/WU</th>
+<td>
+&nbsp;Fl</td>
+<td>
+7</td>
+<td>
+&nbsp;Flei&szlig;ner</td>
+<td>
+&nbsp;-</td>
+<td>
+Raum&auml;nderung</td>
+</tr><tr>
+<td>
+<font color="red"> Hd</font></td>
+<td>
+<font color="red">7</font></td>
+<td>
+<font color="red"> </font></td>
+<td>
+<font color="red"> </font></td>
+<td>
+<font color="red">entf&auml;llt</font></td>
+</tr>
+</table>
+</p>
+<p class="seite" style="text-align:left">
+ <table class="F"><colgroup><col width="899"/></colgroup> <tr class="F"><th rowspan="1" class="F">
+alle Klassen: Wegen der &Uuml;berpr&uuml;fung der Turnhallen sind die </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hallen heute zeitweise gesperrt. Da noch </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nicht bekannt ist, in welchem genauen Zeitraum die </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &Uuml;berpr&uuml;fung der jeweiligen Halle stattfindet, ist </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; unbedingt mehrmals auf den Vertretungsplan zu sehen,</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ob sich kurzzeitig &Auml;nderungen ergeben. Die Sportsachen</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sind mitzunehmen.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Klassen 5e,6b,6d,6e:</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Heute findet f&uuml;r die unten aufgef&uuml;hrten Klassen in der 3.u.4. Std.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+eine Auff&uuml;hrung des Unterstufentheaters statt.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Die einzelnen Klassen treffen sich zu Beginn der Pause im Klassenzimmer</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+und werden nach einer kurzen Anwesenheitskontrolle in das Theater</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+im Studienseminar gef&uuml;hrt (Zugang &uuml;ber Donauw&ouml;rther-Str.) und </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+dort von den angegenenen Lehrkr&auml;ften beaufsichtigt.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Klasse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.Std.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.Std.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp; 5e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hr. Dr. Hagl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hr. Dr. Hagl </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp; 6b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Sauerlacher&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Sauerlacher </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp; 6d&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Gepperth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Gepperth</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp; 6e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Neund&ouml;rfer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Neund&ouml;rfer</th>
+</tr>
+</table>
+</p>
+<hr />
+<a name="20.07.2017"><hr /></a>
+<p class="seite" style="text-align:left">
+<h2>Vertretungsplan f&uuml;r Donnerstag, 20.7.2017</h2>aktualisiert am: 19.7. 7:21 </p>
+<p class="seite" style="text-align:left">
+<h4>Abwesende Klassen:</h4> <table class="K"><colgroup><col width="200"/><col width="150"/><col width="400"/></colgroup> <tr class="K"><th rowspan="1" class="K">
+Q12</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9c</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9b</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9a</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+7d</th>
+<td>
+4.-6. </td>
+<td>
+Unterstufentheater</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+6c</th>
+<td>
+4.-6. </td>
+<td>
+Unterstufentheater</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+6a</th>
+<td>
+4.-6. </td>
+<td>
+Unterstufentheater</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+5d</th>
+<td>
+4.-6. </td>
+<td>
+Unterstufentheater</td>
+</tr>
+</table>
+</p>
+<p class="seite" style="text-align:left">
+<h4>Gesamte Schule:</h4> <table class="G"><colgroup><col width="200"/><col width="350"/><col width="350"/></colgroup> <tr class="G"><th rowspan="1" class="G">
+7.-11. </th>
+<td>
+Lehrerkonferenz</td>
+<td>
+</td>
+</tr>
+</table>
+</p>
+<p class="seite" style="text-align:left">
+<h4>Vertretungen:</h4> <table class="k" border-width="3"><tr><th width="75">
+<h4>Klasse</h4> </th>
+<th width="75">
+<h4>Lkr.</h4></th>
+<th width="60">
+<h4>Std.</h4></th>
+<th width="235">
+<h4>vertreten durch</h4></th>
+<th width="75">
+<h4> Raum</h4></th>
+<th width="375">
+<h4>Bemerkung</h4></th>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+10c</th>
+<td>
+&nbsp;Ec</td>
+<td>
+1</td>
+<td>
+&nbsp;Lix</td>
+<td>
+&nbsp;E05</td>
+<td>
+statt 4.St.&nbsp;&nbsp; (Ec verlegt auf 4.St.)</td>
+</tr><tr>
+<td>
+&nbsp;Lx</td>
+<td>
+4</td>
+<td>
+&nbsp;Eckert</td>
+<td>
+&nbsp;157</td>
+<td>
+statt 1.St. </td>
+</tr>
+<tr class="k"><th rowspan="4" class="k">
+10b</th>
+<td>
+&nbsp;Ru</td>
+<td>
+2</td>
+<td>
+&nbsp;Schneeweiss </td>
+<td>
+&nbsp;107</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Se</td>
+<td>
+3</td>
+<td>
+&nbsp;Elmer</td>
+<td>
+&nbsp;107</td>
+<td>
+zusammen mit 10b(D)</td>
+</tr><tr>
+<td>
+&nbsp;Sn</td>
+<td>
+3</td>
+<td>
+&nbsp;Elmer</td>
+<td>
+&nbsp;107</td>
+<td>
+&nbsp;statt 5.Std.</td>
+</tr><tr>
+<td>
+&nbsp;El</td>
+<td>
+5</td>
+<td>
+&nbsp;Fiedler J.</td>
+<td>
+&nbsp;Mu1</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="4" class="k">
+10a</th>
+<td>
+&nbsp;Hl</td>
+<td>
+1</td>
+<td>
+&nbsp;Schneeweiss </td>
+<td>
+&nbsp;106</td>
+<td>
+&nbsp;statt 4.Std.</td>
+</tr><tr>
+<td>
+&nbsp;Se</td>
+<td>
+4</td>
+<td>
+&nbsp;Helm</td>
+<td>
+&nbsp;106</td>
+<td>
+&nbsp;statt 1.Std.</td>
+</tr><tr>
+<td>
+&nbsp;Sn</td>
+<td>
+4</td>
+<td>
+&nbsp;Helm</td>
+<td>
+&nbsp;106</td>
+<td>
+zusammen mit 10a(D)</td>
+</tr><tr>
+<td>
+&nbsp;Ru</td>
+<td>
+6</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+8c</th>
+<td>
+&nbsp;Me</td>
+<td>
+4</td>
+<td>
+&nbsp;Borkenstein</td>
+<td>
+&nbsp;205</td>
+<td>
+statt Fr(21.7.) 2.St.&nbsp; </td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+8b</th>
+<td>
+&nbsp;Ld</td>
+<td>
+3</td>
+<td>
+&nbsp;Schleer</td>
+<td>
+&nbsp;208</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="3" class="k">
+8a</th>
+<td>
+&nbsp;Ld</td>
+<td>
+3</td>
+<td>
+&nbsp;Schleer</td>
+<td>
+&nbsp;208</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;It</td>
+<td>
+5</td>
+<td>
+&nbsp;Frauendorfer</td>
+<td>
+&nbsp;208</td>
+<td>
+&nbsp;(It verlegt auf 6.St.)</td>
+</tr><tr>
+<td>
+&nbsp;Sm</td>
+<td>
+6</td>
+<td>
+&nbsp;Itineantiu</td>
+<td>
+&nbsp;208</td>
+<td>
+statt 5.St.&nbsp; (Sm verlegt auf Mi(19.7.) 5.St.)</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+7e</th>
+<td>
+&nbsp;Ru</td>
+<td>
+4</td>
+<td>
+&nbsp;Mocker</td>
+<td>
+&nbsp;352</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Da</td>
+<td>
+6</td>
+<td>
+&nbsp;Dambaur</td>
+<td>
+&nbsp;352</td>
+<td>
+ganze Klasse!!!</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+7c</th>
+<td>
+&nbsp;Eh</td>
+<td>
+2</td>
+<td>
+&nbsp;Edenhofer A.</td>
+<td>
+&nbsp;157</td>
+<td>
+Raum&auml;nderung</td>
+</tr><tr>
+<td>
+&nbsp;Sm</td>
+<td>
+3</td>
+<td>
+&nbsp;Schmidt</td>
+<td>
+&nbsp;171</td>
+<td>
+Raum&auml;nderung</td>
+</tr>
+<tr class="k"><th rowspan="4" class="k">
+7b</th>
+<td>
+&nbsp;Ru</td>
+<td>
+1</td>
+<td>
+&nbsp;Hofmann</td>
+<td>
+&nbsp;E79</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Kl</td>
+<td>
+4</td>
+<td>
+&nbsp;Zapp</td>
+<td>
+&nbsp;271</td>
+<td>
+statt Fr(21.7.) 5.St.&nbsp;&nbsp; </td>
+</tr><tr>
+<td>
+&nbsp;Ru</td>
+<td>
+5</td>
+<td>
+&nbsp;Lagleder</td>
+<td>
+&nbsp;271</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Za</td>
+<td>
+6</td>
+<td>
+&nbsp;Zapp</td>
+<td>
+&nbsp;271</td>
+<td>
+ganze Klasse!!!</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+7a</th>
+<td>
+&nbsp;Eh</td>
+<td>
+2</td>
+<td>
+&nbsp;Edenhofer A.</td>
+<td>
+&nbsp;157</td>
+<td>
+Raum&auml;nderung</td>
+</tr><tr>
+<td>
+&nbsp;Be</td>
+<td>
+6</td>
+<td>
+&nbsp;Becker </td>
+<td>
+&nbsp;H104</td>
+<td>
+ganze Klasse!!!</td>
+</tr>
+<tr class="k"><th rowspan="4" class="k">
+6e</th>
+<td>
+&nbsp;Sn</td>
+<td>
+1</td>
+<td>
+&nbsp;Kelnhofer</td>
+<td>
+&nbsp;H103</td>
+<td>
+</td>
+</tr><tr>
+<td>
+&nbsp;Sn</td>
+<td>
+2</td>
+<td>
+&nbsp;Kelnhofer</td>
+<td>
+&nbsp;H103</td>
+<td>
+statt 6.St. </td>
+</tr><tr>
+<td>
+&nbsp;Lx</td>
+<td>
+3</td>
+<td>
+&nbsp;Neund&ouml;rfer</td>
+<td>
+&nbsp;H103</td>
+<td>
+statt Fr(21.7.) 4.St.&nbsp;&nbsp; </td>
+</tr><tr>
+<td>
+&nbsp;Kh</td>
+<td>
+6</td>
+<td>
+&nbsp;Brucklacher</td>
+<td>
+&nbsp;H103</td>
+<td>
+&nbsp;(Kh verlegt auf 2.St.)</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+6d</th>
+<td>
+&nbsp;Bg</td>
+<td>
+5</td>
+<td>
+&nbsp;Haidl</td>
+<td>
+&nbsp;H102</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+6c</th>
+<td>
+&nbsp;Ld</td>
+<td>
+2</td>
+<td>
+&nbsp;Staske</td>
+<td>
+&nbsp;H101</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+5e</th>
+<td>
+&nbsp;Bg</td>
+<td>
+6</td>
+<td>
+&nbsp;Helm</td>
+<td>
+&nbsp;111</td>
+<td>
+</td>
+</tr>
+</table>
+</p>
+<p class="seite" style="text-align:left">
+ <table class="F"><colgroup><col width="899"/></colgroup> <tr class="F"><th rowspan="1" class="F">
+Heute finden 6 Kurzstunden statt:</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+1. Std.&nbsp; 8.00 -&nbsp; 8.40 Uhr</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+2. Std.&nbsp; 8.40 -&nbsp; 9.20 Uhr</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+3. Std.&nbsp; 9.20 - 10.00 Uhr</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Pause&nbsp;&nbsp; 10.00 - 10.15 Uhr</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+4. Std. 10.15 - 10.55 Uhr</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+5. Std. 10.55 - 11.35 Uhr</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+6. Std. 11.35 - 12.15 Uhr</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+WU Textverarbeitung findet ab 12.30 Uhr statt!!!</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Klassen 5d,6a,6c,7d:</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Heute findet f&uuml;r die unten aufgef&uuml;hrten Klassen in der 4.-6. Std.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+eine Auff&uuml;hrung des Unterstufentheaters statt.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Die einzelnen Klassen treffen sich zu Beginn der Pause im Klassenzimmer</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+und werden nach einer kurzen Anwesenheitskontrolle in das Theater</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+im Studienseminar gef&uuml;hrt (Zugang &uuml;ber Donauw&ouml;rther-Str.) und </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+dort von den angegenenen Lehrkr&auml;ften beaufsichtigt.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+Klasse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.Std.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.Std.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.Std.</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp; 5d&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Schneemeier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Wittmann-Schmidt Fr. Kaupp</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp; 6a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hr. Schneeweiss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hr. Schneeweiss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hr. Schneeweiss&nbsp; </th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp; 6c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hr. Merkle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hr. Merkle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hr. Merkle</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp; 7d&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Keppeler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Keppeler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fr. Keppeler</th>
+</tr>
+</table>
+</p>
+<hr />
+<a name="21.07.2017"><hr /></a>
+<p class="seite" style="text-align:left">
+<h2>Vertretungsplan f&uuml;r Freitag, 21.7.2017</h2>aktualisiert am: 19.7. 7:21 </p>
+<p class="seite" style="text-align:left">
+<h4>Abwesende Klassen:</h4> <table class="K"><colgroup><col width="200"/><col width="150"/><col width="400"/></colgroup> <tr class="K"><th rowspan="1" class="K">
+Q12</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9c</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9b</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+9a</th>
+<td>
+1.-11. </td>
+<td>
+</td>
+</tr>
+<tr class="K"><th rowspan="1" class="K">
+5c</th>
+<td>
+1.-2. </td>
+<td>
+Exkursion "Welttag des Buches"</td>
+</tr>
+</table>
+</p>
+<p class="seite" style="text-align:left">
+<h4>Vertretungen:</h4> <table class="k" border-width="3"><tr><th width="75">
+<h4>Klasse</h4> </th>
+<th width="75">
+<h4>Lkr.</h4></th>
+<th width="60">
+<h4>Std.</h4></th>
+<th width="235">
+<h4>vertreten durch</h4></th>
+<th width="75">
+<h4> Raum</h4></th>
+<th width="375">
+<h4>Bemerkung</h4></th>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+10d</th>
+<td>
+<font color="red"> Ed</font></td>
+<td>
+<font color="red">5</font></td>
+<td>
+<font color="red"> Staske</font></td>
+<td>
+<font color="red"> 156</font></td>
+<td>
+<font color="red">statt 3.St. </font></td>
+</tr><tr>
+<td>
+<font color="red"> Sk</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Edenhofer M.</font></td>
+<td>
+<font color="red"> E06</font></td>
+<td>
+<font color="red">statt 5.St.&nbsp; (Sk verlegt auf 5.St.)</font></td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+10b</th>
+<td>
+&nbsp;Sn</td>
+<td>
+6</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+10a</th>
+<td>
+&nbsp;Sn</td>
+<td>
+6</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+8e</th>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Kapaun</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr><tr>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">4</font></td>
+<td>
+<font color="red"> Kapaun</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+8d</th>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Kapaun</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr><tr>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">4</font></td>
+<td>
+<font color="red"> Kapaun</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr>
+<tr class="k"><th rowspan="3" class="k">
+8c</th>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">3</font></td>
+<td>
+<font color="red"> Kapaun</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr><tr>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">4</font></td>
+<td>
+<font color="red"> Kapaun</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr><tr>
+<td>
+&nbsp;Bo</td>
+<td>
+2</td>
+<td>
+&nbsp;Bauer G.</td>
+<td>
+&nbsp;E80</td>
+<td>
+&nbsp;(Bo verlegt auf Do(20.7.) 4.St.)</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+7e</th>
+<td>
+&nbsp;Ru</td>
+<td>
+2</td>
+<td>
+&nbsp;Mocker</td>
+<td>
+&nbsp;352</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="5" class="k">
+7c</th>
+<td>
+&nbsp;Mo</td>
+<td>
+3</td>
+<td>
+&nbsp;Mocker</td>
+<td>
+&nbsp;171</td>
+<td>
+Raum&auml;nderung</td>
+</tr><tr>
+<td>
+&nbsp;Be</td>
+<td>
+4</td>
+<td>
+&nbsp;Becker </td>
+<td>
+&nbsp;171</td>
+<td>
+Raum&auml;nderung</td>
+</tr><tr>
+<td>
+&nbsp;Ru</td>
+<td>
+6</td>
+<td>
+&nbsp;Brucklacher</td>
+<td>
+&nbsp;358</td>
+<td>
+</td>
+</tr><tr>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">1</font></td>
+<td>
+<font color="red"> Bergunde</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr><tr>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> Bergunde</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr>
+<tr class="k"><th rowspan="4" class="k">
+7b</th>
+<td>
+&nbsp;Ru</td>
+<td>
+4</td>
+<td>
+&nbsp;Zapp</td>
+<td>
+&nbsp;271</td>
+<td>
+statt Di(18.7.) 1.St.&nbsp; </td>
+</tr><tr>
+<td>
+&nbsp;Za</td>
+<td>
+5</td>
+<td>
+&nbsp;Keppeler</td>
+<td>
+&nbsp;271</td>
+<td>
+&nbsp;(Za verlegt auf Do(20.7.) 4.St.)</td>
+</tr><tr>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">1</font></td>
+<td>
+<font color="red"> Bergunde</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr><tr>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> Bergunde</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+7a</th>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">1</font></td>
+<td>
+<font color="red"> Bergunde</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr><tr>
+<td>
+<font color="red"> Bg</font></td>
+<td>
+<font color="red">2</font></td>
+<td>
+<font color="red"> Bergunde</font></td>
+<td>
+<font color="red"> TH2</font></td>
+<td>
+<font color="red">Raum&auml;nderung</font></td>
+</tr>
+<tr class="k"><th rowspan="2" class="k">
+6e</th>
+<td>
+&nbsp;Ne</td>
+<td>
+4</td>
+<td>
+&nbsp;Lix</td>
+<td>
+&nbsp;H103</td>
+<td>
+statt Do(20.7.) 3.St.&nbsp;&nbsp; (Ne verlegt auf Do(20.7.) 3.St.)</td>
+</tr><tr>
+<td>
+&nbsp;Sn</td>
+<td>
+5</td>
+<td>
+&nbsp;Fiedler J.</td>
+<td>
+&nbsp;Mu1</td>
+<td>
+</td>
+</tr>
+<tr class="k"><th rowspan="1" class="k">
+6b</th>
+<td>
+&nbsp;Sl</td>
+<td>
+4</td>
+<td>
+&nbsp;Haaks</td>
+<td>
+&nbsp;H209</td>
+<td>
+&nbsp;statt Mi(19.7.)</td>
+</tr>
+<tr class="k"><th rowspan="5" class="k">
+5b</th>
+<td>
+&nbsp;Ba</td>
+<td>
+2</td>
+<td>
+&nbsp;Kulzer</td>
+<td>
+&nbsp;103</td>
+<td>
+statt 3.St. </td>
+</tr><tr>
+<td>
+&nbsp;Ku</td>
+<td>
+3</td>
+<td>
+&nbsp;Sauerlacher</td>
+<td>
+&nbsp;203</td>
+<td>
+&nbsp;statt 6.Std. (Ku verlegt auf 2.St.)</td>
+</tr><tr>
+<td>
+&nbsp;Ku</td>
+<td>
+3</td>
+<td>
+&nbsp;Eschner</td>
+<td>
+&nbsp;103</td>
+<td>
+&nbsp;statt 6.Std. (Ku verlegt auf 2.St.)</td>
+</tr><tr>
+<td>
+&nbsp;Es</td>
+<td>
+6</td>
+<td>
+&nbsp;Bauer V.</td>
+<td>
+&nbsp;103</td>
+<td>
+zusammen mit 5b(DIn2)</td>
+</tr><tr>
+<td>
+&nbsp;Sl</td>
+<td>
+6</td>
+<td>
+&nbsp;Bauer V.</td>
+<td>
+&nbsp;103</td>
+<td>
+&nbsp;statt 2.Std.</td>
+</tr>
+<tr class="k"><th rowspan="3" class="k">
+IF/WU</th>
+<td>
+&nbsp;Sn</td>
+<td>
+7</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+&nbsp;Sn</td>
+<td>
+9</td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;</td>
+<td>
+entf&auml;llt</td>
+</tr><tr>
+<td>
+<font color="red"> Sk</font></td>
+<td>
+<font color="red">5</font></td>
+<td>
+<font color="red"> </font></td>
+<td>
+<font color="red"> </font></td>
+<td>
+<font color="red">entf&auml;llt</font></td>
+</tr>
+</table>
+</p>
+<p class="seite" style="text-align:left">
+ <table class="F"><colgroup><col width="899"/></colgroup> <tr class="F"><th rowspan="1" class="F">
+Alle Klassensprecher: Heute findet in der 6. Stunde eine Klassen-</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sprecherversammlung im Konferenzsaal mit der Wahl</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; der Verbindungslehrer statt. Es besteht Anwesen-</th>
+</tr>
+<tr class="F"><th rowspan="1" class="F">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; heitspflicht.</th>
+</tr>
+</table>
+</p>
+<hr />
+</body></html> 
+ 
+		
+
+	</div>                            </div>
+                            
+                                                    </div>
+
+                                            </div>
+
+                    
+                </div>
+
+                            </div>
+            </div>
+            <!-- //CONTENT -->
+                        <!-- LEFT COLUMN-->
+            <div id="ja-left" class="column sidebar" style="width:20%">
+                
+                                <div class="ja-colswrap clearfix ja-l1">
+                                    <div id="ja-left1" class="ja-col  column" style="width:100%">
+                        	<div class="ja-moduletable moduletable  clearfix" id="Mod92">
+						<h3><span>Schüler</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-224 current active"><a href="/index.php/schueler/vertretungen" >Vertretungsplan</a></li><li class="item-112 parent"><a href="/index.php/schueler/auslandsaufenthalt-nach-dem-abi" >Auslandsaufenthalt nach dem Abi</a></li><li class="item-254"><a href="/index.php/schueler/begabtenfoerderung" >Begabtenförderung</a></li><li class="item-73"><a href="/index.php/schueler/essen" >Essen</a></li><li class="item-32"><a href="/index.php/schueler/kollegstufequalifikationsphase" >Qualifikationsphase</a></li><li class="item-75"><a href="/index.php/schueler/schuelerbefoerderung" >Schülerbeförderung</a></li><li class="item-34"><a href="/index.php/schueler/schuelerzeitung" >Schülerzeitung</a></li><li class="item-263"><a href="/index.php/schueler/schulaufgabenplan" >Schulaufgabenplan</a></li><li class="item-35"><a href="/index.php/schueler/smv" >SMV</a></li><li class="item-74"><a href="/index.php/schueler/vertrauenspersonen" >Vertrauenspersonen</a></li></ul>
+		</div>
+    </div>
+	                    </div>
+                
+                                </div>
+                                            </div>
+            <!-- //LEFT COLUMN-->
+            
+        </div>
+                        </div>
+                </div>
+        <!-- //MAIN CONTAINER -->
+
+                <div id="ja-botsl"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-full" style="width: 100%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod98">
+						<h3><span>Spezial</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-197"><a href="/index.php/download" >Downloads</a></li></ul>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-botsl .ja-box') });
+</script>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-navhelper"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <div class="ja-breadcrums">
+    <span class="breadcrumbs pathway">
+<strong>Aktuelle Seite: </strong><a href="/index.php/schueler" class="pathway">Schüler</a> <img src="/media/system/images/arrow.png" alt=""  /> Vertretungsplan</span>
+
+</div>
+
+<ul class="ja-links">
+        <li class="top"><a href="javascript:scroll(0,0)" title="Back to top">Top</a></li>
+</ul>
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-footer"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <div id="ja-poweredby" class="t3-logo t3-logo-dark">
+	<a href="http://t3.joomlart.com" title="Powered By T3 Framework" target="_blank" rel="nofollow">Powered By T3 Framework</a>
+</div>  	
+<div class="ja-copyright">
+	
+</div>            </div>
+                        </div>
+            
+</div>
+
+
+
+</body>
+
+</html>

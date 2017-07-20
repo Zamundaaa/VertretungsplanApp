@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=klasse\ dst
+comment0.target=PlanData\ parse(java.lang.String,\ PlanData)
+comment0.text=\r\n\ Speichert\ alle\ Vertretungen\ auf\ dem\ Vertretungsplan,\ die\ vorhanden\ sind,\ und\ return\ dst\r\n
+comment1.params=klasse\ wochentag\ dst
+comment1.target=PlanData\ parse(java.lang.String,\ java.lang.String,\ PlanData)
+comment1.text=\r\n\ Speichert\ alle\ Vertretungen\ am\ n\u00E4chsten\ Tag,\ der\ ein\ "wochentag"\ ist,\ in\ dst\ und\ gibt\ dieses\ zur\u00FCck;\ \r\n\ falls\ der\ angegebene\ Wochentag\ nicht\ im\ Vertretungsplan\ steht,\ wird\ null\ zur\u00FCckgegeben\r\n
+comment2.params=c
+comment2.target=java.lang.String\ dayOfWeek(java.util.Calendar)
+comment3.params=tagVonHeute
+comment3.target=java.util.Calendar\ datum(int)
+comment4.params=cal
+comment4.target=java.lang.String\ dateToParse(java.util.Calendar)
+comment5.params=wochentag
+comment5.target=java.util.Calendar\ datum(java.lang.String)
+comment6.params=s
+comment6.target=java.lang.String\ removeAllAndParseMessage(java.lang.String)
+comment7.params=site
+comment7.target=java.lang.String\ downloadWebsiteCode(java.lang.String)
+numComments=8

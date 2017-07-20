@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PLAN()
+comment1.params=
+comment1.target=java.util.Calendar\ GebeMontagsdatum()
+comment2.params=
+comment2.target=java.util.Calendar\ GebeAktualisierungsdatum()
+comment3.params=
+comment3.target=java.util.Calendar\ GebeGueltigkeitsende()
+comment4.params=neuesMontagsdatum
+comment4.target=void\ SetzeMontagsdatum(java.util.Calendar)
+comment5.params=neuesAktualisierungsdatum
+comment5.target=void\ AktualisierungsdatumSetzen(java.util.Calendar)
+comment6.params=neuesGueltigkeitsende
+comment6.target=void\ GueltigkeitsendeSetzen(java.util.Calendar)
+numComments=7

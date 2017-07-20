@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayListB()
+comment1.params=startSize
+comment1.target=ArrayListB(int)
+comment10.params=
+comment10.target=ArrayListB\ clone()
+comment11.params=
+comment11.target=ArrayListB\ copy()
+comment11.text=\r\n\ uses\ {@ArrayListB\#capToArray}\ to\ make\ a\ new\ ArrayListB\ with\ an\ array\ which\ internal\ length\ is\ size\r\n
+comment2.params=data
+comment2.target=ArrayListB(byte[])
+comment3.params=b
+comment3.target=void\ add(byte)
+comment4.params=i\ b
+comment4.target=void\ add(int,\ byte)
+comment5.params=c
+comment5.target=void\ ensureCapacity(int)
+comment6.params=i
+comment6.target=byte\ remove(int)
+comment7.params=i\ b
+comment7.target=void\ set(int,\ byte)
+comment8.params=i
+comment8.target=byte\ get(int)
+comment9.params=
+comment9.target=byte[]\ capToArray()
+numComments=12

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=DatumNeu\ StundeNeu
+comment0.target=STUNDEKURZ(java.util.Calendar,\ STUNDE)
+comment1.params=
+comment1.target=java.util.Calendar\ GebeDatum()
+comment2.params=
+comment2.target=STUNDE\ GebeStunde()
+comment3.params=
+comment3.target=java.lang.String\ GebeLehrkraft()
+comment4.params=
+comment4.target=java.lang.String\ GebeVertretung()
+comment5.params=
+comment5.target=java.lang.String\ GebeRaum()
+comment6.params=neueStunde
+comment6.target=void\ SetzeStunde(STUNDE)
+comment7.params=neueLehrkraft
+comment7.target=void\ SetzeLehrkraft(java.lang.String)
+comment8.params=neueVertretung
+comment8.target=void\ SetzeVertretung(java.lang.String)
+comment9.params=neuerRaum
+comment9.target=void\ SetzeRaum(java.lang.String)
+numComments=10
